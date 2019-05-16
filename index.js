@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
   while(i < facts.length);
   listOfFacts.push(`$facts[i]'!!!'`);
   }
-  i++
+  i++;
 
   return listOfFacts
 }
