@@ -7,9 +7,9 @@ function theBeatlesPlay(musicians, instruments) {
   return array
 }
 function johnLennonFacts(facts) {
-  var facts = [];
-  while (i<facts.length) {
-    facts.push(`${facts}[i]}!!!`);
+  var listOfFacts = [];
+  while (i<ListOfFacts.length) {
+    ListOfFacts.push(`${facts}[i]}!!!`);
 
   }
   return facts
